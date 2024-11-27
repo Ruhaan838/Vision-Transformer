@@ -34,7 +34,7 @@ pip install -r requirements.txt
    cd Vision-Transformer
    ```  
 
-2. Train the ViT on a dataset (e.g., CIFAR-10):  
+2. Train the ViT on a dataset  
    ```bash
    python train.py 
    ```  
